@@ -3,4 +3,8 @@ Second commit
 third commit
 fourth commit
 git added
+<<<<<<< Updated upstream
 Adding again
+=======
+hello
+>>>>>>> Stashed changes
